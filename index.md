@@ -1,4 +1,4 @@
-## Welcome to the stolen site
+# Welcome to the stolen site
 
 > I'm not sure what I should exactly put here
 
@@ -8,7 +8,17 @@ I just leeched off of the github devloper pack and I somehow ended up here.
 
 - Litteraly nothing
 
-## continued (generic template)
+### Some things I use
+
+- Google
+- Google
+- Google
+
+This domain is going to die in a year (December sometime)
+
+> I ain't going to pay $50/year
+
+## Continued (generic template)
 You can use the [editor on GitHub](https://github.com/rethinkingrn/rethinkingrn.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
