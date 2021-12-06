@@ -1,5 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to the stolen site
 
+> I'm not sure what I should exactly put here
+
+I just leeched off of the github devloper pack and I somehow ended up here.
+
+### Some works of mine
+
+- Litteraly nothing
+
+## continued (generic template)
 You can use the [editor on GitHub](https://github.com/rethinkingrn/rethinkingrn.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
