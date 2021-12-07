@@ -2,8 +2,6 @@
 
 > I'm not sure what I should exactly put here
 
-I just leeched off of the github devloper pack and I somehow ended up here.
-
 ### Some works of mine
 
 - Litteraly nothing
@@ -17,6 +15,11 @@ I just leeched off of the github devloper pack and I somehow ended up here.
 This domain is going to die in a year (December sometime)
 
 > I ain't going to pay $50/year
+
+### Some stuff to look at
+
+- [OpenCore EFI](https://github.com/rethinkingrn/msi-gl72m-7rdx-hackintosh)
+- Nothing else
 
 ## Continued (generic template)
 You can use the [editor on GitHub](https://github.com/rethinkingrn/rethinkingrn.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
